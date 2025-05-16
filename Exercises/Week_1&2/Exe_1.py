@@ -7,6 +7,7 @@ triangle, then calculate and print the area.
 
 """
 # Solution:
+# اجمالا كل الاسئلة يمكن حلها بالعديد من الطرق
 b= int(input("Enter the Base : "))
 h= int(input("Enter the  height : "))
 
