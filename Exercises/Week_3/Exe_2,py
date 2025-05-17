@@ -1,0 +1,11 @@
+def square(x):
+    return x * x
+
+def print_square(y):
+    print("Square is:", square(y))
+
+
+x = int(input("Enter Number"))
+
+print_square(x)
+
