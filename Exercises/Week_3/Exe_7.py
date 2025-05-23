@@ -7,10 +7,10 @@ Create a menu that allows the user to choose to calculate power, square, or exit
 # solution
 
 def power_recursive(a, b):
-    # قاعدة التوقف
+   
     if b == 0:
         return 1
-    # الحالة العامة
+    
     return a * power_recursive(a, b - 1)
 
 def menu():
