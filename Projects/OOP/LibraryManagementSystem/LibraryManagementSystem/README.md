@@ -133,6 +133,3 @@ Welcome to the Library System
 
 ---
 
-## 🧑‍💻 Made by: Shahd Qalalweh
-
-> 📬 Contact me if you want help writing your own OOP magic 😉
